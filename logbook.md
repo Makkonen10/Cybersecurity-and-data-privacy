@@ -2,6 +2,5 @@
 
 | Date  | Used hours | Subject(s) |  Outcome(s) |
 | :---         |     :---:      |     :---:      |     :---:      |
-| 23.10.2025 | 4 | Preparing the course | Updated content |
-| 24.10.2025 | 4 | Preparing the course | Updated tasks  |
-| Yhteensä| 4 | 
+| 09.01.2026 | 1 | Module 1: Introduction to cybersecurity | Module 1: DONE |
+| Total | 1 | 
