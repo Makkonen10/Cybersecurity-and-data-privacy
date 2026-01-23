@@ -8,4 +8,5 @@
 | 19.01.2026 | 0.5 | Module 4: Protecting the Organization | Module 4: DONE |
 | 19.01.2026 | 0.5 | Module 5: Will your future be in Cybersecurity | Module 5: DONE |
 | 19.01.2026 | 0.5 | Course Final exam | Final exam: DONE 2x |
-| Total | 4.5 | 
+| 23.01.2026 | 1 | Portswigger and Burbsuite downloading etc and sql injection labs 2x | Configuration and 2 labs DONE |
+| Total | 5.5 | 
