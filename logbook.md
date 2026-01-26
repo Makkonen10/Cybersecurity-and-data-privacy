@@ -9,4 +9,5 @@
 | 19.01.2026 | 0.5 | Module 5: Will your future be in Cybersecurity | Module 5: DONE |
 | 19.01.2026 | 0.5 | Course Final exam | Final exam: DONE 2x |
 | 23.01.2026 | 1 | Portswigger and Burbsuite downloading etc and sql injection labs 2x | Configuration and 2 labs DONE |
-| Total | 5.5 | 
+| 26.01.2026 | 0.5 | Portswigger Lab: Username enumeration via different responses | LAB: DONE |
+| Total | 6 | 
