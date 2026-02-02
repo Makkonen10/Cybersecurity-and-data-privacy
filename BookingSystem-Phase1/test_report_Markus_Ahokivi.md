@@ -13,7 +13,8 @@
 - Test environment details: SQL, WEB, ZAP
 
 **Assumptions & constraints:**  
-- e.g., credentials provided, limited time, etc.
+- New devices and applications
+- Limited time and resurces
 
 ---
 
@@ -24,11 +25,11 @@
 **Overall risk level:** (Low / Medium / High / Critical)
 
 **Top 5 immediate actions:**  
-1.  
-2.  
-3.  
-4.  
-5.  
+1.  Path Traversal - Acces to files, directories, commands etc
+2.  SQL Injection - Acces is possible
+3.  Absence of Anti-CSRF Tokens - No token on html
+4.  Content Security Policy (CSP) Header Not Set - Layer of security 	
+5.  Format String Error - submitted data of an input string is evaluated as a command by the application
 
 ---
 
@@ -36,9 +37,9 @@
 
 |  **Severity Level**  | **Description**                                                                                                              | **Recommended Action**           |
 | -------------------- | ---------------------------------------------------------------------------------------------------------------------------- | -------------------------------- |
-|      🔴 **High**     | A serious vulnerability that can lead to full system compromise or data breach (e.g., SQL Injection, Remote Code Execution). | *Immediate fix required*         |
-|     🟠 **Medium**    | A significant issue that may require specific conditions or user interaction (e.g., XSS, CSRF).                              | *Fix ASAP*                       |
-|      🟡 **Low**      | A minor issue or configuration weakness (e.g., server version disclosure).                                                   | *Fix soon*                       |
+|      🔴 **High**     | Path Traversal | *Immediate fix required*         |Reject any input that does not strictly conform to specifications|
+|     🟠 **Medium**    | Absence of Anti-CSRF Tokens                              | *Fix ASAP*                       |Ensure that your web server, application server, load balancer, etc|
+|      🟡 **Low**      |                                                    | *Fix soon*                       |
 | 🔵 **Info** | No direct risk, but useful for system hardening (e.g., missing security headers).                                            | *Monitor and fix in maintenance* |
 
 
