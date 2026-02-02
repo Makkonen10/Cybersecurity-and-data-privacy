@@ -52,7 +52,7 @@
 | ID | Severity | Finding | Description | Evidence / Proof |
 |------|-----------|----------|--------------|------------------|
 | F-01 | 🔴 High | SQL Injection | Input field allows `'` injection | HTTP/1.1 500 Internal Server Error |
-| F-02 | 🟠 Medium | Absence of Anti-CSRF Tokens |  No Anti-CSRF tokens were found in a HTML submission form| <form action="/register" method="POST"> |
+| F-02 | 🟠 Medium | Absence of Anti-CSRF Tokens |  No Anti-CSRF tokens were found in a HTML submission form| "<form action="/register" method="POST">" |
 | F-03 | 🟡 Low | Application Error Disclosure | `` | HTTP/1.1 500 Internal Server Error |
 
 ---
