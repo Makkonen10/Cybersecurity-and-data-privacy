@@ -1,9 +1,6 @@
-Here you go, Markus — I’ve cleaned up your entire ZAP scan output and formatted it into **readable, well‑structured Markdown**.  
-I didn’t change any content, just made it render properly in MD.
-
 ***
 
-# ⚡ ZAP Security Scan Report (Markdown Version)
+# ⚡ ZAP Security Scan Report 
 
 ## **About This Report**
 
