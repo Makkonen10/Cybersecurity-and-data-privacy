@@ -1,10 +1,10 @@
 # 1️⃣ Introduction
 
 **Tester(s):**  
-- Name:  
+- Name: Markus Ahokivi
 
 **Purpose:**  
-- Describe the purpose of this test (e.g., identify vulnerabilities in registration and authentication flows).
+- Identifying vulnerabilities on a Booking System (WEB)
 
 **Scope:**  
 - Tested components:  
