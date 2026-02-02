@@ -37,7 +37,7 @@
 
 |  **Severity Level**  | **Description**                                                                                                              | **Recommended Action**           |
 | -------------------- | ---------------------------------------------------------------------------------------------------------------------------- | -------------------------------- |
-|      🔴 **High**     | Path Traversal | *Immediate fix required*         |Reject any input that does not strictly conform to specifications|
+|      🔴 **High**     | Path Traversal | *Immediate fix required* Reject any input that does not strictly conform to specifications        |Reject any input that does not strictly conform to specifications|
 |     🟠 **Medium**    | Absence of Anti-CSRF Tokens                              | *Fix ASAP*                       |Ensure that your web server, application server, load balancer, etc|
 |      🟡 **Low**      |                                                    | *Fix soon*                       |
 | 🔵 **Info** | No direct risk, but useful for system hardening (e.g., missing security headers).                                            | *Monitor and fix in maintenance* |
