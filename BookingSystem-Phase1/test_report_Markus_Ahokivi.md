@@ -6,15 +6,11 @@
 **Purpose:**  
 - Identifying vulnerabilities on a Booking System (WEB)
 
-**Scope:**  
-- Tested components:  
-- Exclusions:  
-- Test approach: Gray-box / Black-box / White-box
 
 **Test environment & dates:**  
-- Start:  
-- End:  
-- Test environment details (OS, runtime, DB, browsers):
+- Start: 9:00 AM 2/2/2026
+- End:  10:00 AM 2/2/2026
+- Test environment details: SQL, WEB, ZAP
 
 **Assumptions & constraints:**  
 - e.g., credentials provided, limited time, etc.
