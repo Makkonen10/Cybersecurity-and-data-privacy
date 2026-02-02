@@ -37,10 +37,10 @@
 
 |  **Severity Level**  | **Description**                                                                                                              | **Recommended Action**           |
 | -------------------- | ---------------------------------------------------------------------------------------------------------------------------- | -------------------------------- |
-|      🔴 **High**     | Path Traversal | *Immediate fix required* Reject any input that does not strictly conform to specifications        |
-|     🟠 **Medium**    | Absence of Anti-CSRF Tokens                              | *Fix ASAP*                       |Ensure that your web server, application server, load balancer, etc|
-|      🟡 **Low**      |                                                    | *Fix soon*                       |
-| 🔵 **Info** | No direct risk, but useful for system hardening (e.g., missing security headers).                                            | *Monitor and fix in maintenance* |
+|      🔴 **High**     | Path Traversal | *Immediate fix required* - Reject any input that does not strictly conform to specifications        |
+|     🟠 **Medium**    | Absence of Anti-CSRF Tokens                              | *Fix ASAP* - Ensure that your web server, application server, load balancer, etc|
+|      🟡 **Low**      |   Application Error Disclosure                                                 | *Fix soon* -       Review the source code of this page. Implement custom error pages                 |
+| 🔵 **Info** | No direct risk - User Agent Fuzzer                                 | *Monitor and fix in maintenance* - Check for differences|
 
 
 ---
