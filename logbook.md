@@ -11,4 +11,5 @@
 | 23.01.2026 | 1 | Portswigger and Burbsuite downloading etc and sql injection labs 2x | Configuration and 2 labs DONE |
 | 26.01.2026 | 0.5 | Portswigger Lab: Username enumeration via different responses | LAB: DONE |
 | 27.01.2026 | 1 | Portswigger Labs: Unprotected admin functionality, User role can be modified in user profile and Password reset broken logic (reflections)  | LABS: DONE, REFLECTIONS: DONE |
-| Total | 7 | 
+| 04.02.2026 | 2 | The booking system project Phase 1 -> Part 1 | DONE |
+| Total | 9 | 
