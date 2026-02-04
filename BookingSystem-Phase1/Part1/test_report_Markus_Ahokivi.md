@@ -53,9 +53,9 @@
 |------|-----------|----------|--------------|------------------|
 | F-01 | 🔴 High |  Path Traversal| The Path Traversal attack technique allows an attacker access to files, directories, and commands that potentially reside outside the web document root directory | Manipulate of url was possible |
 | F-02 | 🔴 High | SQL Injection | Input field allows `'` injection | HTTP/1.1 500 Internal Server Error |
-| F-03 | 🟠 Medium |  | Input field allows `'` injection | HTTP/1.1 500 Internal Server Error |
+| F-03 | 🟠 Medium | Format string error | submitted data of an input string is evaluated as a command | script closed the connection on a /%s |
 | F-04 | 🟠 Medium | Absence of Anti-CSRF Tokens |  No Anti-CSRF tokens were found in a HTML submission form| <form action="/register" method="POST |
-| F-05 | 🟡 Low | Application Error Disclosure | `` | HTTP/1.1 500 Internal Server Error |
+| F-05 | 🟡 Low | Application Error Disclosure | script closed the connection on a /%s | HTTP/1.1 500 Internal Server Error |
 
 ---
 
