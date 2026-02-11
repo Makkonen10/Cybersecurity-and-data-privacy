@@ -12,4 +12,5 @@
 | 26.01.2026 | 0.5 | Portswigger Lab: Username enumeration via different responses | LAB: DONE |
 | 27.01.2026 | 1 | Portswigger Labs: Unprotected admin functionality, User role can be modified in user profile and Password reset broken logic (reflections)  | LABS: DONE, REFLECTIONS: DONE |
 | 04.02.2026 | 2 | The booking system project Phase 1 -> Part 1 | DONE |
-| Total | 9 | 
+| 11.02.2026 | 4 | The booking system project Phase 1 -> Part 1 and part2 (Did part 1 in seculab, so had to do everything again on home pc, also the setup for linux, docker etc) | DONE |
+| Total | 13 | 
