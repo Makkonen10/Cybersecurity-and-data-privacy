@@ -16,4 +16,5 @@
 | 16.02.2026 | 3 | The booking system project phase 2 -> Learning how to crack passwrods| DONE |
 | 01.03.2026 | 0.5 | PortSwigger Labs: User role controlled by request parameter and Unprotected adming functionality with unpredictable URL| DONE |
 | 3.03.2026 | 2 | PortSwigger: Access control vulnerabilities 6 labs (Introduced in final assignment)| DONE |
-| Total | 19.5 | 
+| 10.03.2026 | 1 | PortSwigger: Cross-site scripting 4 labs (Introduced in final assignment)| DONE |
+| Total | 20.5 | 
