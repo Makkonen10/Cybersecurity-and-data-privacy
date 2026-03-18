@@ -15,8 +15,9 @@
 | 11.02.2026 | 4 | The booking system project Phase 1 -> Part 1 and part2 (Did part 1 in seculab, so had to do everything again on home pc, also the setup for linux, docker etc) | DONE |
 | 16.02.2026 | 3 | The booking system project phase 2 -> Learning how to crack passwrods| DONE |
 | 01.03.2026 | 1 | PortSwigger Labs: User role controlled by request parameter and Unprotected adming functionality with unpredictable URL| DONE |
-| 3.03.2026 | 2 | PortSwigger: Access control vulnerabilities 6 labs (Introduced in final assignment)| DONE |
+| 03.03.2026 | 2 | PortSwigger: Access control vulnerabilities 6 labs (Introduced in final assignment)| DONE |
 | 10.03.2026 | 1.5 | PortSwigger: Cross-site scripting 4 labs (Introduced in final assignment)| DONE |
 | 15.03.2026 | 1 | PortSwigger: Business logic vulnerabilities 3 labs (Introduced in final assignment)| DONE |
 | 16.03.2026 | 2 | PortSwigger: Cross-site scripting 5 labs (Introduced in final assignment)| DONE |
-| Total | 25.5 | 
+| 18.03.2026 | 2,5 | PortSwigger: 5 labs (XML, OS command, information disclosure and control vulnerabilities) (Introduced in final assignment)| DONE |
+| Total | 28 | 
