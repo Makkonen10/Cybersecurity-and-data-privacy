@@ -20,4 +20,5 @@
 | 15.03.2026 | 1,5 | PortSwigger: Business logic vulnerabilities 3 labs (Introduced in final assignment)| DONE |
 | 16.03.2026 | 2,5 | PortSwigger: Cross-site scripting 5 labs (Introduced in final assignment)| DONE |
 | 18.03.2026 | 3,5 | PortSwigger: 5 labs (XML, OS command, information disclosure and control vulnerabilities) (Introduced in final assignment)| DONE |
-| Total | 33 | 
+| 21.03.2026 | 2 | PortSwigger: 4 labs in Cross-site scripting (Introduced in final assignment)| DONE |
+| Total | 35 | 
